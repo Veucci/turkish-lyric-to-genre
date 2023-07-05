@@ -7,6 +7,42 @@ language:
 library_name: transformers
 tags:
 - music
+widget:
+  - text: Çaldığın o kalbi yerine koy lütfen Eğer hislerinden pek emin değilsen
+      Aradığın aşksa en güzelinden O zaman başka Açarım kapıları hazırım dünden
+      Çaldığın o kalbi yerine koy lütfen Eğer hislerinden pek emin değilsen
+      Aradığın aşksa en güzelinden O zaman başka Açarım kapıları hazırım dünden
+    example_title: (Pop) O Sen Olsan Bari - Aleyna Tilki
+  - text: Nefes alamam, boğazıma kadar dolu Yük dolu, kül dolu iç yarası Bu kez
+      yaramaz, ilaçlar ama Sonun ölüm dostum o yüzden iç yarasın Nefes alamam,
+      boğazıma kadar dolu Yük dolu, kül dolu iç yarası Bu kez yaramaz, ilaçlar
+      ama Sonun ölüm dostum o yüzden iç yarasın Karanlık ev, bu sokak, bütün
+      gezegen Ateş yak, ateş yak eskimiş seneler Zaman ilaç dediler ne gelir
+      elimden? Işıksızım bir şık seçtim inanıp derinden Umrumda mı sandın dünya
+      oynasın yerinden Kıyamet kopsun severim erinmem Ölümden değil korkum
+      gittiğimde yenilmen O gün cevap bulursun öpmek yarayı geçirmez Buraya
+      kadar, kanayamam artık Yapıştı yakama, buraya kadar Kaçamam asla yine
+      yakalar Son nefesini ver, buraya kadar
+    example_title: (Hip-Hop) Nefes Alamam - Aspova
+  - text: Bedava yaşıyoruz, dostlar bedava Hava bedava, bulut bedava Dere tepe
+      bedava, yağmur çamur bedava Bedava yaşıyoruz, dostlar bedava Hava bedava,
+      bulut bedava Dere tepe bedava, yağmur çamur bedava Otomobillerin dışı,
+      sinemaların kapısı Otomobillerin dışı, sinemaların kapısı Camekanlar,
+      onlar bedava Camekanlar, onlar bedava Peynir ekmek değil ama acı su bedava
+      Kelle fiyatına hürriyet, esirlik bedava Peynir ekmek değil ama acı su
+      bedava Kelle fiyatına hürriyet, esirlik bedava Bedava yaşıyoruz, dostlar
+      bedava
+    example_title: (Rock) Bedava Yaşıyoruz - Cem Karaca
+  - text: Nikâhına beni çağır, sevgilim İstersen şahidin olurum senin Bu adam kim?
+      diye soran olursa Eski bir tanıdık dersin, sevgilim Nikâhına beni çağır
+      sevgilim İstersen şahidin olurum senin Bu adam kim diye soran olursa Eski
+      bir tanıdık dersin, sevgilim Hayaller kurardık biz yıllar önce Hiç yoktu
+      hesapta ayrılık bizce Bilirsin ne kadar görmek isterdim Beyazlar içinde
+      seni öylece Hayaller kurardık biz yıllar önce Hiç yoktu hesapta ayrılık
+      bizce Bilirsin ne kadar görmek isterdim Beyazlar içinde seni öylece
+      Garibin biriysem sevemez miyim? Aşkla karın doymaz diyen ben miyim? Şimdi
+      çok zenginsin, ben ayrı garip Sana bir buket gül veremez miyim?
+    example_title: (Arabesk) Nikah Masası - Ümit Besen
 ---
 
 # Lyrics Genre Classification Model
